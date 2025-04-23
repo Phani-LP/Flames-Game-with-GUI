@@ -26,5 +26,5 @@ This project is a fun application that calculates the relationship between two n
    python "Flames with GUI.py"
     ```
 
-**Output:**
-<img src="output_of_flames.png" alt="output_of_flames" >
+**Output:**<br>
+<img src="output_of_flames.png" alt="output_of_flames" />
